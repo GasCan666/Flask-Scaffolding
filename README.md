@@ -1,4 +1,4 @@
-# Flask-Scaffolding: A Decentralized Flask Framework
+# Flask-Scaffolding: A Decentralized Flask Framework, By Bixing
 
 ## Why Flask-Scaffolding
 Many Flask tutorial would teach you to create your blueprint, and then use import statement and register_blueprint startment in main.py, which is good way to use blueprint as a starter, but not a good way for team development.
