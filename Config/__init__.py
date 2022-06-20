@@ -1,5 +1,4 @@
 class Config(object):
-    """配置参数"""
     # set parameter for Mysql, actually, it's recommended to store those parameter in the environment variable
     user = '******'
     password = '******'
